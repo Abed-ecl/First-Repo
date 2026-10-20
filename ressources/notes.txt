@@ -1,0 +1,2 @@
+# NOTES
+** Ce fichier contient les notes prises tout au long du projet**
